@@ -1,5 +1,3 @@
-# Relatorio-Executivo-de-Vendas-Global
-
 # Relatorio-de-Vendas-Global
 
 Este projeto foi desenvolvido para atender a uma demanda da gerência: **ter um resumo executivo claro e rápido dos últimos números de vendas**.  
